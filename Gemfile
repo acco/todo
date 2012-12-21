@@ -6,6 +6,7 @@ gem 'simple_form'
 gem 'jquery-rails'
 gem 'rails_autolink'
 gem 'ey_config'
+gem 'rmagick', '2.13.1'
 
 group :assets do
   gem 'sass-rails'
